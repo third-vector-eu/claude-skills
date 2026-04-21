@@ -40,4 +40,4 @@ MIT. Use these skills however you like, commercially or otherwise. A credit is a
 
 ## About Third Vector
 
-[Third Vector](https://thirdvector.eu) helps European businesses become AI-native. Based in Rotterdam, the Netherlands. Follow the work on [the Blueishprint](https://thirdv3ctor.substack.com) and on [LinkedIn](https://www.linkedin.com/company/third-vector-eu).
+[Third Vector](https://thirdvector.eu) helps European businesses become AI-native. Based in Rotterdam, the Netherlands. Follow the work on [The Blueishprint](https://thirdv3ctor.substack.com) and on [LinkedIn](https://www.linkedin.com/company/third-vector-eu).
