@@ -14,6 +14,10 @@ Walks a solo or early-stage founder through writing a rigorous Investment Memo f
 
 Background and recommended process: *[Write the Memo First](https://thirdv3ctor.substack.com)* on the Blueishprint *(link to be updated on publish)*.
 
+## Downloading a skill and associated reference files
+
+Go to [download-directory.github.io](https://download-directory.github.io/) and drop the repo URL of the Claude Skill you want to use. Output: a zipped folder you can upload to Claude (go to customize or simply drop the folder in the chat).
+
 ## Installing a skill
 
 Clone this repo and copy the skill folder you want into your local Claude skills directory.
