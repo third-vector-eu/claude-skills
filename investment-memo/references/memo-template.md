@@ -9,7 +9,7 @@ The complete annotated template for the 5-8 page memo. Use this as the structure
 A compact 4-line header, not a full cover page:
 
 - **Company name** (working title if early).
-- **Founder name(s)**.
+- **Owner name(s)** (founder, or the operator leading the line).
 - **Date** (use full date, e.g. 20 April 2026).
 - **One-line positioning statement.** The "we help X do Y so that Z" or "We're building the X for Y" framing. No marketing adjectives.
 
@@ -42,7 +42,7 @@ The sharp end of the memo. Describe:
 
 Tag each claim as **[Conviction]** or **[Hypothesis]**.
 
-**Common failures:** describing a problem too broad to wedge into; describing a problem that is painful but not frequent enough to justify a purchase; describing a problem the founder has, not one the customer has articulated.
+**Common failures:** describing a problem too broad to wedge into; describing a problem that is painful but not frequent enough to justify a purchase; describing a problem the owner has, not one the customer has articulated.
 
 ---
 
@@ -83,19 +83,22 @@ Include:
 
 ---
 
-## 5. Founder-market fit (½ page)
+## 5. Right to win (½ page)
 
-Why you, specifically. This section is about unfair advantage, not credentials.
+Why you, specifically, or why this team. This section is about unfair advantage, not credentials. Pre-traction it is the most important section in the memo: everything else is a hypothesis, but the team is the one thing that is already real, so investors and sponsors weight it most heavily.
 
-Address:
+The load-bearing pillar is **operator-market fit**: a credible team with genuine insight into this market. For a new line inside an existing company, the parent's assets are *additive* to that, never a substitute. Distribution and a brand in the hands of a team that does not understand the market still lose.
 
-- **Why you're a credible operator in this market.** What have you seen, built, or lived that gives you insight the average founder wouldn't have?
-- **What's your "unfair"?** Network, scar tissue, privileged access to customers, a technical edge, a brand, distribution. Something others can't easily replicate.
+Address, in order of weight:
+
+- **Operator-market fit (the human edge).** What have you, or your team, seen, built, or lived that gives you insight someone without your vantage point wouldn't have? Are you a plausible *winner* of this market, or just a plausible *builder*?
+- **Your "unfair".** Network, scar tissue, privileged access to customers, a technical edge. Something others can't easily replicate.
+- **Company assets (corporate line only), as a multiplier on the above.** Existing distribution, brand, customer base, proprietary data, or capital. State why they transfer to this line, and why this company is a better owner than a focused startup would be. Name the cannibalisation risk if there is one.
 - **What you're missing.** Honest. What will you need to hire, learn, or partner for?
 
-Write this in first person and with humility. This section either feels earned or it feels like a résumé paragraph — only the first works.
+Write this in the first person and with humility. This section either feels earned or it feels like a résumé paragraph, and only the first works.
 
-**Common failure:** mistaking domain familiarity for domain advantage. "I used the product" is not founder-market fit.
+**Common failure:** mistaking domain familiarity for domain advantage ("I used the product" is not a right to win); or, for a corporate line, leaning on the parent's assets to dodge the harder question of whether this specific team has real operator-market fit.
 
 ---
 
@@ -160,7 +163,7 @@ This section is small but disproportionately weighty. Investors and advisors rea
 
 ## 10. Risks, unknowns & falsification criteria (½ page)
 
-The section most founders skip and most investors look for.
+The section most owners skip and most investors look for.
 
 For each major bet in the memo, answer: **what would prove this wrong?**
 
@@ -204,11 +207,12 @@ Options:
 - **Hires** — the 1-2 roles that would most change the trajectory.
 - **Advisors or introductions** — named, specific asks.
 - **Design partners** — the ideal first 3-5 customers.
+- **Internal mandate (for a new line inside an existing company)** — budget, an executive sponsor, a ring-fenced team, a clear mandate, a build-vs-buy decision, and the internal hurdle rate this line has to clear to win funding against other bets.
 - **Nothing, bootstrapping** — in which case, explicitly say so and explain why bootstrapping is the right choice for this particular business.
 
 This section is short but important. It tells the reader how to help.
 
-**Common failure:** a vague "we're raising $X" without a specific plan for what it funds, or a bootstrapping note that sounds like resignation instead of conviction.
+**Common failure:** a vague "we're raising $X" (or "we need headcount") without a specific plan for what it funds, or a bootstrapping note that sounds like resignation instead of conviction.
 
 ---
 
