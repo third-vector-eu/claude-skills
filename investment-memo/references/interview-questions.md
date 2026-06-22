@@ -1,12 +1,12 @@
 # Interview Questions
 
-The question bank for Phase 1. Use these as prompts — not a rigid script. Follow the founder's energy, but ensure every section gets real coverage before moving on.
+The question bank for Phase 1. Use these as prompts — not a rigid script. Follow the owner's energy, but ensure every section gets real coverage before moving on.
 
 ## How to use this file
 
 - **Read the core questions for each section.** These are baseline.
-- **Add mode-specific questions** based on the founder's calibration result (Domain Expert / Adjacent / Explorer).
-- **Do not ask all questions in one go.** Ask 1-2, let the founder talk, ask follow-ups, move on. A memo interview isn't a checklist exercise.
+- **Add mode-specific questions** based on the owner's calibration result (Domain Expert / Adjacent / Explorer).
+- **Do not ask all questions in one go.** Ask 1-2, let the owner talk, ask follow-ups, move on. A memo interview isn't a checklist exercise.
 - **Always reflect back** what you heard in 2-3 sentences before moving to the next section. This catches misunderstandings.
 
 ---
@@ -61,7 +61,7 @@ The question bank for Phase 1. Use these as prompts — not a rigid script. Foll
 
 **Domain Expert additions:**
 - What's the version of this product that you've seen built badly before? What did they get wrong?
-- What's the "obvious next step" in your industry that most founders would take but is actually wrong? Why are you not taking it?
+- What's the "obvious next step" in your industry that most people in your position would take but is actually wrong? Why are you not taking it?
 
 **Explorer additions:**
 - How do you know the wedge is narrow enough? Have you tried describing it to someone in the industry?
@@ -69,14 +69,16 @@ The question bank for Phase 1. Use these as prompts — not a rigid script. Foll
 
 ---
 
-## Section 4: Founder-market fit
+## Section 4: Right to win
+
+The "why you" bank, and the most important section pre-traction. The load-bearing question is **operator-market fit**: does this specific team have genuine insight into and fit with this market? For a new line inside an existing company, the parent's assets are additive to that, never a substitute. Cover the human edge first and weight it most.
 
 **Core:**
-- What in your background makes you a credible builder of this specifically?
+- What in your background, or your company's, makes you a credible builder of this specifically?
 - What have you seen that others haven't?
-- What's your unfair advantage — network, technical skill, scar tissue, privileged access?
+- What's your unfair advantage — network, technical skill, scar tissue, privileged access, or existing assets?
 - What will you need to hire or learn or partner for?
-- Why are you the one doing this and not someone better-positioned?
+- Why are you (or this company) the one doing this and not someone better-positioned?
 
 **Domain Expert additions:**
 - What's the skill or perspective you have that's rare in this market? Not "I worked here a long time" — the specific thing.
@@ -85,6 +87,13 @@ The question bank for Phase 1. Use these as prompts — not a rigid script. Foll
 **Explorer additions:**
 - You don't have domain depth yet. What's your plan to build it — through hires, advisors, customer conversations, or immersion?
 - Who in your network is the closest you have to a domain expert, and what did they say about the idea?
+
+**Corporate / new-line additions** (if this is a line inside an existing company):
+- Which existing assets give this line an unfair advantage — distribution, brand, customer base, proprietary data, capital, regulatory licences?
+- Why is *this company* the right owner of this line, and what would a focused startup do better or faster?
+- Who are the internal stakeholders whose backing you need, and who could block or starve it?
+- What's the cannibalisation risk to the existing business, and is the company willing to accept it?
+- Even with those assets, does the team running this line have real operator-market fit, or is the plan leaning on the parent's balance sheet?
 
 ---
 

@@ -1,6 +1,6 @@
 # Research Playbook
 
-Web-search strategies for each section of the memo. Use during Phase 1 (Interview), in parallel with questions. Present findings back to the founder; don't silently inject into the memo.
+Web-search strategies for each section of the memo. Use during Phase 1 (Interview), in parallel with questions. Present findings back to the owner; don't silently inject into the memo.
 
 ## General principles
 
@@ -25,13 +25,14 @@ Web-search strategies for each section of the memo. Use during Phase 1 (Intervie
 
 ### Solution / wedge
 
-- Search for similar wedges that have been tried before. Even failed attempts can clarify why the founder's approach is different.
+- Search for similar wedges that have been tried before. Even failed attempts can clarify why the owner's approach is different.
 - Query: `"[problem statement] + tool"`, `"[industry] + automation"`, `"[use case] + AI"`.
 - Look for YC Winter/Summer batch descriptions from the last 2 years — they're a good proxy for "who else is attempting this wedge".
 
-### Founder-market fit
+### Right to win
 
-- Only research if validating a claim the founder made (e.g., "I built [system] at [company]"). Don't dig into personal history beyond what's claimed.
+- Only research if validating a claim the owner made (e.g., "I built [system] at [company]"). Don't dig into personal history beyond what's claimed.
+- For a new line inside an existing company, verify the parent's claimed assets where public (distribution footprint, brand strength, customer base, data) rather than the individual's CV.
 - Check LinkedIn, GitHub, past company websites, public talks, Substack, podcasts — only to verify claimed credentials.
 
 ### Business model & pricing hypothesis
@@ -61,11 +62,12 @@ Web-search strategies for each section of the memo. Use during Phase 1 (Intervie
   - Public reports from credible firms (IDC, Gartner, McKinsey), but scrutinise assumptions.
   - Bottoms-up: count of target accounts (e.g., "number of SaaS companies with >100 CX agents") × ACV.
   - Adjacent category sizes as sanity checks.
+- For a new line inside an existing company, also research adjacency moves by peers (how have similar incumbents extended into this space?) and the company's or its rivals' past attempts at this line, including ones that were quietly shut down.
 
 ### Customer discovery status
 
-- No external research for this section. The founder's own conversations are the ground truth.
-- If the founder hasn't done customer discovery yet, flag it — don't try to simulate it.
+- No external research for this section. The owner's own conversations are the ground truth.
+- If the owner hasn't done customer discovery yet, flag it — don't try to simulate it.
 
 ### Risks, unknowns & falsification criteria
 
@@ -79,14 +81,14 @@ Web-search strategies for each section of the memo. Use during Phase 1 (Intervie
 
 ### The ask
 
-- If the founder is considering fundraising, check the current funding environment for their category — recent deal sizes, active investors, stage norms.
+- If the owner is considering fundraising, check the current funding environment for their category — recent deal sizes, active investors, stage norms.
 - Query: `"[category] + seed round 2025"`, `"investors + [vertical]"`, `"[region] VC + [stage]"`.
 
 ---
 
 ## How to present findings
 
-When research surfaces something relevant, show it to the founder like this:
+When research surfaces something relevant, show it to the owner like this:
 
 > **Found during research:** [fact + source + date]
 >
@@ -94,4 +96,4 @@ When research surfaces something relevant, show it to the founder like this:
 >
 > **Question for you:** does this match what you're seeing? Does it change anything?
 
-Let the founder decide whether and how to incorporate. Research informs the memo; it doesn't overwrite the founder's perspective.
+Let the owner decide whether and how to incorporate. Research informs the memo; it doesn't overwrite the owner's perspective.

@@ -1,8 +1,8 @@
 # Critical Review Checklist
 
-Phase 3 pressure-test. Run every item. Produce a structured critique for the founder.
+Phase 3 pressure-test. Run every item. Produce a structured critique for the owner.
 
-The goal of this checklist is not to be mean. It's to catch the failure modes that predictably haunt early-stage memos — the places where founders (especially smart ones) substitute conviction for evidence, or finesse for specificity.
+The goal of this checklist is not to be mean. It's to catch the failure modes that predictably haunt early-stage memos — the places where owners (especially smart ones) substitute conviction for evidence, or finesse for specificity.
 
 ## How to use
 
@@ -12,7 +12,7 @@ Go through each check below. For every hit, capture:
 - What's wrong with it.
 - What would make it strong.
 
-Present findings to the founder as a structured list at the end of Phase 3. Don't rewrite the memo during review — wait for the founder's responses in Phase 4.
+Present findings to the owner as a structured list at the end of Phase 3. Don't rewrite the memo during review — wait for the owner's responses in Phase 4.
 
 ---
 
@@ -60,18 +60,22 @@ Valid why-nows cite: tech capability shifts (crossed a threshold), regulatory mo
 
 - Is the competitive landscape listed or dismissed?
 - If incumbents are called out as "slow and bureaucratic", is there evidence, or is that a trope?
-- Has the founder steelmanned the best possible incumbent response? (What if they buy the fastest-growing competitor? Launch a clone feature? Price-dump?)
+- Has the owner steelmanned the best possible incumbent response? (What if they buy the fastest-growing competitor? Launch a clone feature? Price-dump?)
 - Are indirect competitors acknowledged? (Consulting, in-house tools, manual workarounds usually show up as the real competitor, not named products.)
 
-If this section feels short or triumphant, the founder probably isn't taking competition seriously enough.
+If this section feels short or triumphant, the owner probably isn't taking competition seriously enough.
 
-## 6. Founder-market fit check
+## 6. Right to win check
 
-- Is the founder a plausible *winner* of this market, or just a plausible *builder*?
-- What's their actual unfair advantage — not credentials, but something unreplicable?
+This is the highest-weight check pre-traction: the team is the one thing in the memo that is already real, not a hypothesis. Treat a thin or hand-wavy Right to win section as a top-tier red flag, even when the rest of the memo is polished.
+
+- Is the owner (or the team) a plausible *winner* of this market, or just a plausible *builder*?
+- What's the actual unfair advantage — not credentials, but something unreplicable?
+- **Assets-as-dodge:** for a corporate line, is "we have distribution / brand / capital" being used to skip the harder question of whether this specific team has genuine operator-market fit? Assets are additive, never a substitute. Flag it if the human edge is missing.
+- For a corporate line: are the parent's assets genuinely transferable to this line, and why is this company a better owner than a focused startup would be?
 - Have they acknowledged what they're missing and how they'll address it?
 
-If the section reads like a résumé paragraph, it's not founder-market fit — it's credentials.
+If the section reads like a résumé paragraph, or like a list of the parent's assets, it's not a right to win — it's credentials.
 
 ## 7. GTM mechanism check
 
@@ -80,7 +84,7 @@ If the section reads like a résumé paragraph, it's not founder-market fit — 
 - Does the GTM motion match the ACV? (Self-serve implies low ACV. Enterprise sales implies high ACV + long sales cycles + experienced GTM ops.)
 - Is there evidence of any motion working yet? (Early conversations, demos, waitlists, pilots.)
 
-If GTM is vague, the founder hasn't thought it through — and GTM is 50% of why startups fail.
+If GTM is vague, the owner hasn't thought it through — and GTM is 50% of why startups fail.
 
 ## 8. Pricing sanity
 
@@ -96,7 +100,7 @@ If GTM is vague, the founder hasn't thought it through — and GTM is 50% of why
 - Is the market growing or shrinking? Evidence?
 - Is the "serviceable" market much smaller than the total? (Usually yes. Don't conflate.)
 
-Top-down TAM numbers are almost always inflated and signal the founder hasn't done the math.
+Top-down TAM numbers are almost always inflated and signal the owner hasn't done the math.
 
 ## 10. Falsifiability
 
@@ -118,19 +122,20 @@ For each: is there a stated falsification criterion and a test plan? If not, req
 
 Count roughly how many words go to each section. Red flags:
 
-- Product gets 50% of the memo, GTM gets 10%. (Product-heavy founders frequently die on GTM. Rebalance.)
+- Product gets 50% of the memo, GTM gets 10%. (Product-heavy teams frequently die on GTM. Rebalance.)
+- Right to win gets a thin paragraph. (Pre-traction this is the most load-bearing section of all; if the team and its edge are hand-waved, the memo is weak no matter how strong the rest looks.)
 - Vision gets a page, wedge gets a paragraph. (Vision is cheap; wedge is where the work is.)
 - Risks section is a throwaway list. (Missing opportunity; this is the most investor-useful section.)
 
 ## 12. Hypothesis vs. conviction tagging
 
-Every major claim should be tagged **[Conviction]** or **[Hypothesis]**. Flag any untagged claim. If everything is tagged Conviction, the founder is overconfident — pre-revenue, 80% of claims should be hypotheses.
+Every major claim should be tagged **[Conviction]** or **[Hypothesis]**. Flag any untagged claim. If everything is tagged Conviction, the owner is overconfident — pre-revenue, 80% of claims should be hypotheses.
 
 ## 13. Customer discovery evidence
 
 - Does the memo reference actual customer conversations, or imagined ones?
 - Are claims about buyer behaviour backed by real quotes or signals?
-- If the founder hasn't talked to customers yet, is that acknowledged honestly?
+- If the owner hasn't talked to customers yet, is that acknowledged honestly?
 
 Memos with no customer discovery evidence are essentially fan-fiction. Flag the whole section if so.
 
@@ -142,19 +147,19 @@ Read the memo from the perspective of a smart, friendly skeptic. Ask:
 - What's the one sentence they'd put a red pen through?
 - What's the one thing they'd want to see that isn't there?
 
-Write these down. They become the three sharpest questions the founder should sit with.
+Write these down. They become the three sharpest questions the owner should sit with.
 
 ---
 
 ## Presenting the critique
 
-Group findings under four headings when presenting to the founder:
+Group findings under four headings when presenting to the owner:
 
 1. **Weak claims** — with the exact quote and why.
 2. **Contradictions** — with both quotes.
 3. **Missing evidence** — what would make this section credible.
-4. **The three sharpest questions** — the ones the founder should sit with this week.
+4. **The three sharpest questions** — the ones the owner should sit with this week.
 
-Don't list all 14 checks separately in the output. The founder wants sharpness, not checklists.
+Don't list all 14 checks separately in the output. The owner wants sharpness, not checklists.
 
-Keep the tone warm but direct. This is the most valuable part of the skill — the founder is paying for clarity, not politeness.
+Keep the tone warm but direct. This is the most valuable part of the skill — the owner is paying for clarity, not politeness.
